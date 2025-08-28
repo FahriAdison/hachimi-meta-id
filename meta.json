@@ -1,4 +1,8 @@
 [
+    {   "name": "Indo (Fahri)",
+        "index": "https://raw.githubusercontent.com/FahriAdison/hachimi-tl-id/release/index.json",
+        "short_desc": "Translate Hampir Seluruhnya Walau Masih Ada Yang Tertinggal,Masih Akan Terus Di Proses"
+    },
     {
         "name": "English (UmaTL)",
         "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/release/index.json",
