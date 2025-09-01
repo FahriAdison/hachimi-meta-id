@@ -1,6 +1,7 @@
-The meta file provides Hachimi with its list of selectable translation repositories.  
+# Tentang File Ini
+File meta ini berfungsi sebagai daftar repositori terjemahan yang bisa dipilih di Hachimi.
 
-# Contributing
-If you run a translation repo for Hachimi, create a PR or an issue to request its addition.
-All sufficiently differing repositories are accepted.
-Updates to the contributors list for each repo are also welcomed.
+# ​Cara Berkontribusi?
+​Jika kamu mengelola repositori terjemahan untuk Hachimi, silakan buat pull request (PR) atau issue untuk meminta penambahannya.
+​Semua repositori dengan perbedaan yang signifikan akan diterima.
+​Pembaruan daftar kontributor untuk setiap repositori juga sangat kami nantikan.
